@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 470" width="1200" height="470" role="img" aria-label="Timeline of four phases, Frame, Prioritize, Build and pilot, Scale and reinvent, with a gate between each phase">
+  <rect width="1200" height="470" fill="#F7F5EF"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <g font-size="15" font-weight="700" letter-spacing="1.5" fill="#8A5A0B">
+      <text x="165" y="82">WEEKS 0 TO 4</text>
+      <text x="455" y="82">WEEKS 4 TO 8</text>
+      <text x="745" y="82">MONTHS 2 TO 6</text>
+      <text x="1035" y="82">MONTH 6 ONWARD</text>
+    </g>
+    <g>
+      <rect x="40" y="96" width="250" height="214" rx="14" fill="#12203A"/>
+      <rect x="330" y="96" width="250" height="214" rx="14" fill="#12203A"/>
+      <rect x="620" y="96" width="250" height="214" rx="14" fill="#12203A"/>
+      <rect x="910" y="96" width="250" height="214" rx="14" fill="#12203A"/>
+    </g>
+    <g font-size="21" font-weight="700" fill="#FFFFFF">
+      <text x="165" y="136">1. Frame</text>
+      <text x="455" y="136">2. Prioritize</text>
+      <text x="745" y="136">3. Build and pilot</text>
+      <text x="1035" y="136">4. Scale and reinvent</text>
+    </g>
+    <g font-size="16" fill="#C9D3E3">
+      <text x="165" y="172">Align on ambition</text><text x="165" y="194">and where value sits</text>
+      <text x="455" y="172">Score the ideas and</text><text x="455" y="194">pick the right bets</text>
+      <text x="745" y="172">Prove it small, with</text><text x="745" y="194">humans in the loop</text>
+      <text x="1035" y="172">Industrialise and</text><text x="1035" y="194">keep improving</text>
+    </g>
+    <g font-size="13" font-weight="700" letter-spacing="1.5" fill="#E9A23B">
+      <text x="165" y="232">YOU LEAVE WITH</text><text x="455" y="232">YOU LEAVE WITH</text><text x="745" y="232">YOU LEAVE WITH</text><text x="1035" y="232">YOU LEAVE WITH</text>
+    </g>
+    <g font-size="16" fill="#FFFFFF">
+      <text x="165" y="260">Ambition, baselines,</text><text x="165" y="282">a named sponsor</text>
+      <text x="455" y="260">Ranked portfolio,</text><text x="455" y="282">3 to 5 business cases</text>
+      <text x="745" y="260">Results against control,</text><text x="745" y="282">a risk log</text>
+      <text x="1035" y="260">Scaled platform,</text><text x="1035" y="282">quarterly dashboard</text>
+    </g>
+    <!-- gates -->
+    <g fill="#E9A23B" stroke="#12203A" stroke-width="3">
+      <polygon points="310,185 332,207 310,229 288,207"/>
+      <polygon points="600,185 622,207 600,229 578,207"/>
+      <polygon points="890,185 912,207 890,229 868,207"/>
+    </g>
+    <g stroke="#8A5A0B" stroke-width="2" stroke-dasharray="4 4">
+      <line x1="310" y1="229" x2="310" y2="336"/><line x1="600" y1="229" x2="600" y2="336"/><line x1="890" y1="229" x2="890" y2="336"/>
+    </g>
+    <g font-size="16" font-weight="700" fill="#12203A">
+      <text x="310" y="356">Gate 1</text><text x="600" y="356">Gate 2</text><text x="890" y="356">Gate 3</text>
+    </g>
+    <g font-size="15" fill="#4A5568">
+      <text x="310" y="379">Leaders agree</text><text x="310" y="399">where to play</text>
+      <text x="600" y="379">Business case</text><text x="600" y="399">clears the hurdle</text>
+      <text x="890" y="379">Beats control,</text><text x="890" y="399">few risk incidents</text>
+    </g>
+    <g font-size="16" font-weight="700" fill="#12203A">
+      <text x="1035" y="356">Quarterly review</text>
+    </g>
+    <g font-size="15" fill="#4A5568">
+      <text x="1035" y="379">Value tracked</text><text x="1035" y="399">against the case</text>
+    </g>
+    <text x="600" y="446" font-size="16" fill="#4A5568">Each gate decides: go, fix or stop. Timings are indicative.</text>
+  </g>
+</svg>

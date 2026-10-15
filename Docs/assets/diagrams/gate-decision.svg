@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" width="1200" height="390" role="img" aria-label="At each gate the team decides one of three outcomes: go to the next phase, fix and re-test, or stop and keep the lessons">
+  <defs>
+    <marker id="ag" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#12203A"/></marker>
+  </defs>
+  <rect width="1200" height="390" fill="#F7F5EF"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <rect x="40" y="145" width="230" height="86" rx="14" fill="#DDE5F0"/>
+    <text x="155" y="182" font-size="20" font-weight="700" fill="#12203A">Phase work</text>
+    <text x="155" y="208" font-size="16" fill="#12203A">is complete</text>
+    <line x1="274" y1="188" x2="332" y2="188" stroke="#12203A" stroke-width="3" marker-end="url(#ag)"/>
+    <polygon points="440,70 550,188 440,306 330,188" fill="#E9A23B" stroke="#12203A" stroke-width="3"/>
+    <text x="440" y="182" font-size="19" font-weight="700" fill="#12203A">Gate test</text>
+    <text x="440" y="206" font-size="19" font-weight="700" fill="#12203A">met?</text>
+    <g stroke="#12203A" stroke-width="3" marker-end="url(#ag)">
+      <line x1="553" y1="170" x2="696" y2="92"/>
+      <line x1="553" y1="188" x2="696" y2="188"/>
+      <line x1="553" y1="206" x2="696" y2="284"/>
+    </g>
+    <rect x="700" y="52" width="460" height="82" rx="14" fill="#1F7A74"/>
+    <text x="930" y="86" font-size="22" font-weight="700" fill="#FFFFFF">Go</text>
+    <text x="930" y="114" font-size="17" fill="#FFFFFF">Move to the next phase</text>
+    <rect x="700" y="147" width="460" height="82" rx="14" fill="#E9A23B"/>
+    <text x="930" y="181" font-size="22" font-weight="700" fill="#12203A">Fix</text>
+    <text x="930" y="209" font-size="17" fill="#12203A">Repeat the weak part, then re-test</text>
+    <rect x="700" y="243" width="460" height="82" rx="14" fill="#1E3358"/>
+    <text x="930" y="277" font-size="22" font-weight="700" fill="#FFFFFF">Stop</text>
+    <text x="930" y="305" font-size="17" fill="#FFFFFF">Retire the idea and keep the lessons</text>
+    <text x="600" y="366" font-size="17" fill="#4A5568">Agree the test before the phase starts, so the decision rests on evidence, not opinion.</text>
+  </g>
+</svg>
