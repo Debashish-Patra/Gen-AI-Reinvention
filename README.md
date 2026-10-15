@@ -3,6 +3,7 @@
 **A plain-language guide to adopting generative AI in any industry: five pillars to cover, four phases to follow, and one running example (marketing) shown in retail and travel.**
 
 > Most Gen AI efforts stall as a pile of disconnected pilots. This framework treats Gen AI as a **reinvention agenda**: start from value, sequence by readiness, and design people, risk and platform in from day one.
+<br>
 
 <p align="center">
   <img width="1357" height="531" alt="image" src="https://github.com/user-attachments/assets/b93f2e58-509d-42e9-8201-dbf6306e9788" />
