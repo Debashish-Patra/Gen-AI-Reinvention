@@ -24,7 +24,8 @@ Most confusion comes from mixing these up. Keep them apart, then read them toget
 | **Pillars** | What do we need to get right? | Five areas that must all be covered, so nothing important is missed. |
 | **Phases** | When do we do what? | Four steps in order, each ending at a gate that decides whether to go on. |
 
-![Grid of four phases against five pillars showing what happens in each cell](assets/diagrams/pillars-phases-grid.svg)
+<p align="center"><img width="1492" height="742" alt="image" src="https://github.com/user-attachments/assets/4b241b05-10c0-49f2-bfdd-eb7879bf915b" />
+
 
 *Read across a row for one phase. Read down a column for one pillar. Cells shown are for a marketing programme.*
 
