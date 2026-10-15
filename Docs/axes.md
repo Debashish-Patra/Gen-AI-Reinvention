@@ -38,7 +38,7 @@ Pillars run across the top. Phases run down the side. Each cell says what that p
 
 ## How to read it
 
-![The pillar-by-phase grid with one column, one row and their shared cell highlighted](assets/diagrams/read-the-grid.svg)
+<p align="center"><img width="1490" height="825" alt="image" src="https://github.com/user-attachments/assets/2e06b9a4-1e92-45c3-b997-c4df0204920f" />
 
 **Read down a column to follow one pillar through time.** Take Responsible AI, the highlighted column:
 
