@@ -102,7 +102,7 @@ The same stream, applied to a fashion retailer and a regional airline. The struc
 
 ## About
 
-Created by **[Debashish]**. This is an independent, simplified framework with original diagrams and illustrative examples. It does not contain confidential material from any employer or client, and the example figures and companies are fictional.
+Created by **Debashish**. This is an independent, simplified framework with original diagrams and illustrative examples. It does not contain confidential material from any employer or client, and the example figures and companies are fictional.
 
 Questions, corrections and industry examples are welcome: open an issue or a pull request.
 
