@@ -1,0 +1,10 @@
+title: Gen AI Reinvention Framework
+description: A plain-language guide to adopting generative AI in any industry. Five pillars, four phases, one running example.
+theme: jekyll-theme-minimal
+
+# Lets links like [Idea](idea.md) work both on github.com and on the published site
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
