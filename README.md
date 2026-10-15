@@ -21,7 +21,7 @@ Teams usually ask two different questions at once, and that is where the confusi
 Read the framework as a grid. Every phase touches every pillar, with a different job in each cell.
 
 <p align="center">
-  <img width="1492" height="742" alt="image" src="https://github.com/user-attachments/assets/5790f02e-6a99-40aa-b46c-f1fe182dc188" />
+  <img width="1492" height="742" alt="image" src="Docs/assets/diagrams/pillars-phases-grid.svg" alt="Grid of four phases against five pillars showing what happens in each cell" width="100%"/>
 
 </p>
 
