@@ -30,7 +30,7 @@ The framework answers two different questions. Keep them apart, then read them t
 
 Pillars run across the top. Phases run down the side. Each cell says what that pillar does in that phase.
 
-![Grid of four phases against five pillars showing what happens in each cell](assets/diagrams/pillars-phases-grid.svg)
+<p align="center"><img width="1492" height="742" alt="image" src="https://github.com/user-attachments/assets/417f328c-d8be-4e16-9a04-82978a3b1fe9" />
 
 *The cells shown are for a marketing programme.*
 
