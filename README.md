@@ -5,7 +5,62 @@
 > Most Gen AI efforts stall as a pile of disconnected pilots. This framework treats Gen AI as a **reinvention agenda**: start from value, sequence by readiness, and design people, risk and platform in from day one.
 
 <p align="center">
-  <img src="assets/hero.svg" alt="Five pillars of Gen AI reinvention standing on a base of four phases" width="100%">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="Five pillars of Gen AI reinvention standing on a base of four phases">
+  <rect width="1200" height="440" fill="#12203A"/>
+  <text x="600" y="62" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#F7F5EF">Gen AI Reinvention Framework</text>
+  <text x="600" y="98" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9D3E3">Five pillars say what to cover. Four phases say when.</text>
+  <polygon points="80,140 600,116 1120,140" fill="#E9A23B"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <g>
+      <rect x="110" y="150" width="180" height="170" rx="10" fill="#1E3358"/>
+      <text x="200" y="196" font-size="44" font-weight="700" fill="#E9A23B">1</text>
+      <text x="200" y="236" font-size="21" font-weight="700" fill="#F7F5EF">Lead with</text>
+      <text x="200" y="262" font-size="21" font-weight="700" fill="#F7F5EF">value</text>
+      <text x="200" y="298" font-size="15" fill="#C9D3E3">Where is the money?</text>
+    </g>
+    <g>
+      <rect x="310" y="150" width="180" height="170" rx="10" fill="#1E3358"/>
+      <text x="400" y="196" font-size="44" font-weight="700" fill="#E9A23B">2</text>
+      <text x="400" y="236" font-size="21" font-weight="700" fill="#F7F5EF">Talent and</text>
+      <text x="400" y="262" font-size="21" font-weight="700" fill="#F7F5EF">new work</text>
+      <text x="400" y="298" font-size="15" fill="#C9D3E3">Who does what?</text>
+    </g>
+    <g>
+      <rect x="510" y="150" width="180" height="170" rx="10" fill="#1E3358"/>
+      <text x="600" y="196" font-size="44" font-weight="700" fill="#E9A23B">3</text>
+      <text x="600" y="236" font-size="21" font-weight="700" fill="#F7F5EF">Responsible</text>
+      <text x="600" y="262" font-size="21" font-weight="700" fill="#F7F5EF">AI</text>
+      <text x="600" y="298" font-size="15" fill="#C9D3E3">What can go wrong?</text>
+    </g>
+    <g>
+      <rect x="710" y="150" width="180" height="170" rx="10" fill="#1E3358"/>
+      <text x="800" y="196" font-size="44" font-weight="700" fill="#E9A23B">4</text>
+      <text x="800" y="236" font-size="21" font-weight="700" fill="#F7F5EF">Digital</text>
+      <text x="800" y="262" font-size="21" font-weight="700" fill="#F7F5EF">core</text>
+      <text x="800" y="298" font-size="15" fill="#C9D3E3">What must exist?</text>
+    </g>
+    <g>
+      <rect x="910" y="150" width="180" height="170" rx="10" fill="#1E3358"/>
+      <text x="1000" y="196" font-size="44" font-weight="700" fill="#E9A23B">5</text>
+      <text x="1000" y="236" font-size="21" font-weight="700" fill="#F7F5EF">Change and</text>
+      <text x="1000" y="262" font-size="21" font-weight="700" fill="#F7F5EF">reinvention</text>
+      <text x="1000" y="298" font-size="15" fill="#C9D3E3">How does it stick?</text>
+    </g>
+  </g>
+  <rect x="110" y="338" width="980" height="62" rx="10" fill="#1F7A74"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#F7F5EF" text-anchor="middle">
+    <text x="233" y="375">1 Frame</text>
+    <text x="478" y="375">2 Prioritize</text>
+    <text x="723" y="375">3 Build and pilot</text>
+    <text x="968" y="375">4 Scale and reinvent</text>
+  </g>
+  <g stroke="#F7F5EF" stroke-width="2" opacity="0.6">
+    <line x1="355" y1="350" x2="355" y2="388"/>
+    <line x1="600" y1="350" x2="600" y2="388"/>
+    <line x1="845" y1="350" x2="845" y2="388"/>
+  </g>
+  <text x="600" y="426" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#8FA0BF">Pillars: what to cover  ·  Phases: when to do it, with a gate between each</text>
+</svg>
 </p>
 
 ---
