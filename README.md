@@ -5,7 +5,7 @@
 > Most Gen AI efforts stall as a pile of disconnected pilots. This framework treats Gen AI as a **reinvention agenda**: start from value, sequence by readiness, and design people, risk and platform in from day one.
 <br>
 
-<p align="center"> <img src="[assets/diagrams/hero.svg](https://github.com/Debashish-Patra/Gen-AI-Reinvention/blob/main/Docs/assets/diagrams/hero.svg)" alt="Five pillars of Gen AI reinvention standing on a base of four phases" width="100%"> </p>
+<p align="center"> <img src="[assets/diagrams/hero.svg](Docs/assets/diagrams/hero.svg)" alt="Five pillars of Gen AI reinvention standing on a base of four phases" width="100%"> </p>
 
 ---
 
