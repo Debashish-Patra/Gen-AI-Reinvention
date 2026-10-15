@@ -28,7 +28,7 @@ Many organisations have a dozen impressive demos and no change in the numbers. F
 
 The same tools, organised around value targets and a shared foundation.
 
-<p align="center"> <img width="1472" height="562" alt="image" src="https://github.com/user-attachments/assets/f3f7d861-5a82-4f56-a754-33dd5a708535" />
+<p align="center"> <img width="1472" height="562" alt="image" src="assets/diagrams/before-after.svg" />
 
 *Left: pilots that do not talk to each other. Right: every use case tied to a value target and built on shared parts.*
 
