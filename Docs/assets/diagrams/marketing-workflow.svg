@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 470" width="1200" height="470" role="img" aria-label="Pilot workflow in five steps, brief, generate, review, publish, measure, showing what a person does and what the AI and systems do, with human approval at review and publish">
+  <rect width="1200" height="470" fill="#F7F5EF"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <!-- step headers -->
+    <g font-size="17" font-weight="700" fill="#FFFFFF">
+      <rect x="150" y="24" width="170" height="44" rx="10" fill="#12203A"/><text x="235" y="53">1. Brief</text>
+      <rect x="365" y="24" width="170" height="44" rx="10" fill="#12203A"/><text x="450" y="53">2. Generate</text>
+      <rect x="580" y="24" width="170" height="44" rx="10" fill="#12203A"/><text x="665" y="53">3. Review</text>
+      <rect x="795" y="24" width="170" height="44" rx="10" fill="#12203A"/><text x="880" y="53">4. Publish</text>
+      <rect x="1010" y="24" width="170" height="44" rx="10" fill="#12203A"/><text x="1095" y="53">5. Measure</text>
+    </g>
+    <!-- lanes -->
+    <rect x="20" y="86" width="1160" height="150" rx="12" fill="#DDE5F0" opacity="0.55"/>
+    <rect x="20" y="250" width="1160" height="150" rx="12" fill="#D8ECE9" opacity="0.7"/>
+    <text x="85" y="166" font-size="17" font-weight="700" fill="#12203A">Person</text>
+    <text x="85" y="330" font-size="17" font-weight="700" fill="#12203A">AI and</text>
+    <text x="85" y="352" font-size="17" font-weight="700" fill="#12203A">systems</text>
+    <!-- person boxes -->
+    <g font-size="15" fill="#12203A">
+      <rect x="150" y="116" width="170" height="90" rx="10" fill="#FFFEFA" stroke="#7A8FB8" stroke-width="2"/>
+      <text x="235" y="156">Write the brief,</text><text x="235" y="178">set the goal</text>
+
+      <rect x="580" y="116" width="170" height="90" rx="10" fill="#FFFEFA" stroke="#E9A23B" stroke-width="5"/>
+      <text x="665" y="156">Check voice, claims,</text><text x="665" y="178">and consent</text>
+
+      <rect x="795" y="116" width="170" height="90" rx="10" fill="#FFFEFA" stroke="#E9A23B" stroke-width="5"/>
+      <text x="880" y="156">Approve the</text><text x="880" y="178">final version</text>
+
+      <rect x="1010" y="116" width="170" height="90" rx="10" fill="#FFFEFA" stroke="#7A8FB8" stroke-width="2"/>
+      <text x="1095" y="156">Compare with</text><text x="1095" y="178">the control group</text>
+    </g>
+    <!-- AI boxes -->
+    <g font-size="15" fill="#FFFFFF">
+      <rect x="150" y="280" width="170" height="90" rx="10" fill="#1F7A74"/>
+      <text x="235" y="320">Pull catalogue,</text><text x="235" y="342">brand guide</text>
+
+      <rect x="365" y="280" width="170" height="90" rx="10" fill="#1F7A74"/>
+      <text x="450" y="320">Draft copy</text><text x="450" y="342">variants</text>
+
+      <rect x="580" y="280" width="170" height="90" rx="10" fill="#1F7A74"/>
+      <text x="665" y="320">Flag claims outside</text><text x="665" y="342">the approved list</text>
+
+      <rect x="795" y="280" width="170" height="90" rx="10" fill="#1F7A74"/>
+      <text x="880" y="320">Send via the</text><text x="880" y="342">workflow</text>
+
+      <rect x="1010" y="280" width="170" height="90" rx="10" fill="#1F7A74"/>
+      <text x="1095" y="320">Track results and</text><text x="1095" y="342">rejections</text>
+    </g>
+    <!-- flow arrows along the middle -->
+    <defs><marker id="aw" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#12203A"/></marker></defs>
+    <g stroke="#12203A" stroke-width="2.5" marker-end="url(#aw)" fill="none">
+      <line x1="235" y1="208" x2="235" y2="276"/>
+      <path d="M 320 325 L 361 325"/>
+      <path d="M 535 325 L 576 325"/>
+      <line x1="665" y1="278" x2="665" y2="210"/>
+      <line x1="750" y1="161" x2="791" y2="161"/>
+      <line x1="880" y1="208" x2="880" y2="276"/>
+      <path d="M 965 325 L 1006 325"/>
+      <line x1="1095" y1="278" x2="1095" y2="210"/>
+    </g>
+    <!-- legend -->
+    <rect x="150" y="424" width="34" height="22" rx="5" fill="#FFFEFA" stroke="#E9A23B" stroke-width="5"/>
+    <text x="196" y="441" font-size="16" fill="#12203A" text-anchor="start">Human approval point. Nothing is published without it.</text>
+  </g>
+</svg>

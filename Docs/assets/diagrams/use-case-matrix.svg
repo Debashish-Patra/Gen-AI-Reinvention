@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-label="Two value-against-readiness grids placing seven retail marketing use cases and seven travel marketing use cases into four quadrants">
+<rect width="1200" height="520" fill="#F7F5EF"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="70" y="52" font-size="22" font-weight="700" fill="#12203A">Retail: fashion retailer</text>
+<rect x="70" y="100" width="198.0" height="132.0" fill="#DDE5F0"/>
+<rect x="268.0" y="100" width="132.0" height="132.0" fill="#E9A23B"/>
+<rect x="70" y="232.0" width="198.0" height="198.0" fill="#ECE8DD"/>
+<rect x="268.0" y="232.0" width="132.0" height="198.0" fill="#D8ECE9"/>
+<rect x="70" y="100" width="330" height="330" fill="none" stroke="#12203A" stroke-width="2"/>
+<text x="169.0" y="92" font-size="14" font-weight="700" fill="#12203A" text-anchor="middle">Long-term investment</text>
+<text x="334.0" y="92" font-size="14" font-weight="700" fill="#12203A" text-anchor="middle">Top priorities</text>
+<text x="169.0" y="450" font-size="14" font-weight="700" fill="#12203A" text-anchor="middle">Deprioritised</text>
+<text x="334.0" y="450" font-size="14" font-weight="700" fill="#12203A" text-anchor="middle">To be monitored</text>
+<circle cx="367.0" cy="199.0" r="15" fill="#12203A" stroke="#F7F5EF" stroke-width="2"/>
+<text x="367.0" y="204.0" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">1</text>
+<circle cx="301.0" cy="199.0" r="15" fill="#12203A" stroke="#F7F5EF" stroke-width="2"/>
+<text x="301.0" y="204.0" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">2</text>
+<circle cx="301.0" cy="265.0" r="15" fill="#12203A" stroke="#F7F5EF" stroke-width="2"/>
+<text x="301.0" y="270.0" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">3</text>
+<circle cx="235.0" cy="199.0" r="15" fill="#12203A" stroke="#F7F5EF" stroke-width="2"/>
+<text x="235.0" y="204.0" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">4</text>
+<circle cx="169.0" cy="133.0" r="15" fill="#12203A" stroke="#F7F5EF" stroke-width="2"/>
+<text x="169.0" y="138.0" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">5</text>
+<circle cx="169.0" cy="331.0" r="15" fill="#12203A" stroke="#F7F5EF" stroke-width="2"/>
+<text x="169.0" y="336.0" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">6</text>
+<circle cx="367.0" cy="331.0" r="15" fill="#12203A" stroke="#F7F5EF" stroke-width="2"/>
+<text x="367.0" y="336.0" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">7</text>
+<text x="235.0" y="476" text-anchor="middle" font-size="15" font-weight="700" fill="#4A5568">Readiness (low to high)</text>
+<text transform="translate(52,265.0) rotate(-90)" text-anchor="middle" font-size="15" font-weight="700" fill="#4A5568">Value (low to high)</text>
+<text x="420" y="144" font-size="16" fill="#12203A"><tspan font-weight="700">1</tspan>  Product descriptions</text>
+<text x="420" y="178" font-size="16" fill="#12203A"><tspan font-weight="700">2</tspan>  Email copy</text>
+<text x="420" y="212" font-size="16" fill="#12203A"><tspan font-weight="700">3</tspan>  Ad variants</text>
+<text x="420" y="246" font-size="16" fill="#12203A"><tspan font-weight="700">4</tspan>  Segmentation aid</text>
+<text x="420" y="280" font-size="16" fill="#12203A"><tspan font-weight="700">5</tspan>  Next-best-offer</text>
+<text x="420" y="314" font-size="16" fill="#12203A"><tspan font-weight="700">6</tspan>  Virtual try-on</text>
+<text x="420" y="348" font-size="16" fill="#12203A"><tspan font-weight="700">7</tspan>  Archive tagging</text>
+<text x="670" y="52" font-size="22" font-weight="700" fill="#12203A">Travel: regional airline</text>
+<rect x="670" y="100" width="198.0" height="132.0" fill="#DDE5F0"/>
+<rect x="868.0" y="100" width="132.0" height="132.0" fill="#E9A23B"/>
+<rect x="670" y="232.0" width="198.0" height="198.0" fill="#ECE8DD"/>
+<rect x="868.0" y="232.0" width="132.0" height="198.0" fill="#D8ECE9"/>
+<rect x="670" y="100" width="330" height="330" fill="none" stroke="#12203A" stroke-width="2"/>
+<text x="769.0" y="92" font-size="14" font-weight="700" fill="#12203A" text-anchor="middle">Long-term investment</text>
+<text x="934.0" y="92" font-size="14" font-weight="700" fill="#12203A" text-anchor="middle">Top priorities</text>
+<text x="769.0" y="450" font-size="14" font-weight="700" fill="#12203A" text-anchor="middle">Deprioritised</text>
+<text x="934.0" y="450" font-size="14" font-weight="700" fill="#12203A" text-anchor="middle">To be monitored</text>
+<circle cx="967.0" cy="199.0" r="15" fill="#12203A" stroke="#F7F5EF" stroke-width="2"/>
+<text x="967.0" y="204.0" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">1</text>
+<circle cx="901.0" cy="199.0" r="15" fill="#12203A" stroke="#F7F5EF" stroke-width="2"/>
+<text x="901.0" y="204.0" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">2</text>
+<circle cx="835.0" cy="199.0" r="15" fill="#12203A" stroke="#F7F5EF" stroke-width="2"/>
+<text x="835.0" y="204.0" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">3</text>
+<circle cx="901.0" cy="265.0" r="15" fill="#12203A" stroke="#F7F5EF" stroke-width="2"/>
+<text x="901.0" y="270.0" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">4</text>
+<circle cx="769.0" cy="133.0" r="15" fill="#12203A" stroke="#F7F5EF" stroke-width="2"/>
+<text x="769.0" y="138.0" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">5</text>
+<circle cx="769.0" cy="331.0" r="15" fill="#12203A" stroke="#F7F5EF" stroke-width="2"/>
+<text x="769.0" y="336.0" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">6</text>
+<circle cx="967.0" cy="331.0" r="15" fill="#12203A" stroke="#F7F5EF" stroke-width="2"/>
+<text x="967.0" y="336.0" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">7</text>
+<text x="835.0" y="476" text-anchor="middle" font-size="15" font-weight="700" fill="#4A5568">Readiness (low to high)</text>
+<text transform="translate(652,265.0) rotate(-90)" text-anchor="middle" font-size="15" font-weight="700" fill="#4A5568">Value (low to high)</text>
+<text x="1020" y="144" font-size="16" fill="#12203A"><tspan font-weight="700">1</tspan>  Destination content</text>
+<text x="1020" y="178" font-size="16" fill="#12203A"><tspan font-weight="700">2</tspan>  Offer emails</text>
+<text x="1020" y="212" font-size="16" fill="#12203A"><tspan font-weight="700">3</tspan>  Multilingual copy</text>
+<text x="1020" y="246" font-size="16" fill="#12203A"><tspan font-weight="700">4</tspan>  Member summaries</text>
+<text x="1020" y="280" font-size="16" fill="#12203A"><tspan font-weight="700">5</tspan>  Next-best-action</text>
+<text x="1020" y="314" font-size="16" fill="#12203A"><tspan font-weight="700">6</tspan>  Itinerary videos</text>
+<text x="1020" y="348" font-size="16" fill="#12203A"><tspan font-weight="700">7</tspan>  Social digest</text>
+<text x="600" y="506" text-anchor="middle" font-size="14" fill="#4A5568">Scores run 1 to 5. A score of 4 or 5 counts as high. Illustrative.</text>
+</g></svg>
