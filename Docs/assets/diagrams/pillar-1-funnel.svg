@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="Funnel: long list of use cases, tagged, scored on value and readiness, shortlisted to the top three to five, then a detailed business case">
+  <rect width="1200" height="440" fill="#F7F5EF"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" text-anchor="middle">
+    <rect x="60" y="24" width="1080" height="58" rx="12" fill="#DDE5F0"/><text x="600" y="61" fill="#12203A">Long list of use cases</text>
+    <rect x="150" y="94" width="900" height="58" rx="12" fill="#BCCBE3"/><text x="600" y="131" fill="#12203A">Tag each: table stakes or strategic bet</text>
+    <rect x="240" y="164" width="720" height="58" rx="12" fill="#7A8FB8"/><text x="600" y="201" fill="#12203A">Score on value and readiness</text>
+    <rect x="330" y="234" width="540" height="58" rx="12" fill="#1E3358"/><text x="600" y="271" fill="#FFFFFF">Shortlist the top 3 to 5</text>
+    <rect x="420" y="304" width="360" height="58" rx="12" fill="#E9A23B"/><text x="600" y="341" fill="#12203A">Detailed business case</text>
+  </g>
+  <text x="600" y="412" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#4A5568">Each step removes ideas. What is left has a case behind it.</text>
+</svg>
