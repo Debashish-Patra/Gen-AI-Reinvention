@@ -5,9 +5,7 @@
 > Most Gen AI efforts stall as a pile of disconnected pilots. This framework treats Gen AI as a **reinvention agenda**: start from value, sequence by readiness, and design people, risk and platform in from day one.
 <br>
 
-<p align="center">
-  <img width="1357" height="531" alt="image" src="https://github.com/user-attachments/assets/b93f2e58-509d-42e9-8201-dbf6306e9788" />
-</p>
+<p align="center"> <img src="assets/pillars-phases-grid.svg" alt="Grid of four phases against five pillars showing what happens in each cell" width="100%"> </p>
 
 ---
 
